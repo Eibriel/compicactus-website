@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Eibriel"
 +++
 
-Compicactus is an **AI conversational simulator**. It is written in Go.
+Compicactus is an **AI conversational simulator**.
 
 Made on top of computational semantics.
 
