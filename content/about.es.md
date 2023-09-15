@@ -1,19 +1,15 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "Acerca de"
+date = "2023-09-14"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Eibriel"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Compicactus es un **simulador de conversación por inteligencia artificial**.
 
-It makes use of a variety of open source projects including:
+Está basado en la semántica computacional.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://store.steampowered.com/app/2278200/Compicactus/
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Código fuente disponible en [GitHub](https://github.com/Eibriel/Compicactus).
