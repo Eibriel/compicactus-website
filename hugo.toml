@@ -176,6 +176,10 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/Eibriel/Compicactus"
 
+  [[params.social]]
+    name = "steam"
+    url  = "https://store.steampowered.com/app/2278200/Compicactus/"
+
 #  [[params.social]]
 #    name = "linkedin"
 #    url  = "https://www.linkedin.com/"
@@ -200,7 +204,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+#  [[menu.main]]
+#    identifier = "posts"
+#    name       = "Posts"
+#    url        = "posts/"
